@@ -1,0 +1,2 @@
+[PT/BR]
+discord: .ives
